@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Hats",
+        "image": "./Images/Hats.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jackets",
+        "image": "./Images/Jackets.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Shoes",
+        "image": "./Images/Shoes.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Womens",
+        "image": "./Images/Womens.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mens",
+        "image": "./Images/Mens.jpg"
+    }
+]
